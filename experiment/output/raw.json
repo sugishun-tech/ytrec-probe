@@ -1,0 +1,2951 @@
+{
+  "target_channel_url": "https://www.youtube.com/@sugishun_tech",
+  "target_channel_name": "sugishun",
+  "collected_at": "2026-07-12T01:22:02.975445+00:00",
+  "mode": "browserless-http+innertube-next",
+  "locale": "ja-JP",
+  "seed_limit": 20,
+  "recommendation_limit": 20,
+  "seed_videos": [
+    {
+      "title": "善意の介入はどこまで許されるか",
+      "url": "https://www.youtube.com/watch?v=MPUojiAtI3g",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "夏の電気代対策エアコンの「自動」ボタン1つで半額 節約術を大公開",
+          "video_url": "https://www.youtube.com/watch?v=dfYAVi10mhU",
+          "channel_name": "職人社長の家づくり工務店",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "オニヤンマにオオスズメバチを近づけると...",
+          "video_url": "https://www.youtube.com/watch?v=OkdDvs_mfZc",
+          "channel_name": "おーちゃんねる",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【決定的証拠】佐藤二朗氏と橋本愛氏の文春報道で冤罪確定となる現場の声 ※フジテレビハラスメント疑惑の真相※ 長谷川豊×須田慎一郎 対談SP （虎ノ門ニュース）",
+          "video_url": "https://www.youtube.com/watch?v=TRerhHN-g0w",
+          "channel_name": "真相深入り! 虎ノ門ニュース",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "望月衣塑子が行く れいわ山本代表の元秘書が明かすスピード違反、レンタカー契約の真相 代表辞任の会見をどう見た？",
+          "video_url": "https://www.youtube.com/watch?v=j7qqPuwh4EA",
+          "channel_name": "東京新聞チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "「山頂で誕生日を迎えたい」富士山の富士宮・御殿場ルートが山開き 83歳の\"ミスター富士山\"は2251回目の登頂 ふもとのグルメもますます充実＝静岡",
+          "video_url": "https://www.youtube.com/watch?v=myXSXv08blA",
+          "channel_name": "SBSnews6",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "この秘密を知れば、もう二度と新しいテレビリモコンを買う必要はありません！あらゆるテレビリモコンを修理する方法！😱",
+          "video_url": "https://www.youtube.com/watch?v=6z3H3gth5YY",
+          "channel_name": "Inventor New",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "1年間に約4500万円かけ海外視察 …3年でハワイに5回…ナゼ！？ “疑惑”の福岡県議会を松井一郎氏が斬る！【ニュース ジグザグ】",
+          "video_url": "https://www.youtube.com/watch?v=KIDtZ_aOijs",
+          "channel_name": "読売テレビニュース",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "【ADHD】集中できない本当の理由。ドーパミンを知れば脳は変わる",
+          "video_url": "https://www.youtube.com/watch?v=zEfkYnUb4JI",
+          "channel_name": "あやか先生 内科医 ・認知症医 白土綾佳",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "占いや霊媒に頼るから運が悪くなるんだぞ",
+      "url": "https://www.youtube.com/watch?v=DV9R8SbY7Sg",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "【カタコト英語】ネイティブにはこう聞こえてる",
+          "video_url": "https://www.youtube.com/watch?v=cwzUcC6y8cQ",
+          "channel_name": "タロサックの海外生活ダイアリーTAROSAC",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "占い師に嘘つかれて揉めた",
+          "video_url": "https://www.youtube.com/watch?v=IlIx8g5zW8A",
+          "channel_name": "コヤッキーチャンネル【開運バラエティ】",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "大正天皇｜近代日本史最大のタブー。47歳の若さで崩御した謎多き生涯【第一次世界大戦】",
+          "video_url": "https://www.youtube.com/watch?v=9pIDJ25TcsA",
+          "channel_name": "あゝ、激動ノ時代ヲ。",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【速報！】なんと地球の内核の回転が停止と逆回転の可能性との報道発表！わかりやすく解説します！",
+          "video_url": "https://www.youtube.com/watch?v=s9seucmsUpQ",
+          "channel_name": "富士地震火山研究所byえいしゅう博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "初めての留守番を隠し撮りしたら大号泣してました⋯",
+          "video_url": "https://www.youtube.com/watch?v=UM9beRmkTpA",
+          "channel_name": "イッヌネコ大学",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【7/13〜7/19】家のこの場所に花を飾る人はご先祖様と深く繋がり、ご加護が得られる！この週の開運行動とNG行動を発表！【吉日/凶日/運勢】",
+          "video_url": "https://www.youtube.com/watch?v=Y0IYoaUmjFI",
+          "channel_name": "丸儲け住職 -ブッダの教えで人生好転-",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "中国を襲う暴風・豪雨・地震・洪水！豆腐カス工事のビル、橋、ダムが崩壊",
+          "video_url": "https://www.youtube.com/watch?v=sjoFgO7zS6E",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "2歳児が追い回されていると勘違いして守ろうとする豆柴が頼もしすぎました...",
+          "video_url": "https://www.youtube.com/watch?v=Gim67Gsh9_c",
+          "channel_name": "豆柴うに＆ゴールデンレトリバーおから UNI＆OKARA",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "超大型台風バヴィが中国を直撃！上海から100万人が避難、パニック状態の群衆が駅と空港を埋め尽くす",
+          "video_url": "https://www.youtube.com/watch?v=B6-hri_xXYk",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【知らないと損】サンダルで一番危険なのはこれです",
+          "video_url": "https://www.youtube.com/watch?v=QPkDFcfu-xs",
+          "channel_name": "シューフィッター佐藤靖青(旧・こまつ) 足と靴のスペシャリスト",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "イーロンが語る数年後…地獄の未来が待っていました【 都市伝説 MATT SHOW 闇の3日間 】",
+          "video_url": "https://www.youtube.com/watch?v=nIjvZsCrCTM",
+          "channel_name": "秘密結社コヤミナティ",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "【脂肪肝】何をやっても痩せない本当の理由。14日で数値を正常化する最強の食べ物5選",
+          "video_url": "https://www.youtube.com/watch?v=dV_BAgpHWr4",
+          "channel_name": "人生最後のダイエットチャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【知らないと損！】7月の運気がアップする開運アクション7選",
+          "video_url": "https://www.youtube.com/watch?v=sUqvBD7Z7NI",
+          "channel_name": "占いTV Love Me Do ラブちゃん",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "世界を知ろうと思うことが大事",
+      "url": "https://www.youtube.com/watch?v=lsOpdyZd_VA",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "『僕の仕事はもう終わりました』68歳を迎えた岡田斗司夫から皆さんへの大切なメッセージ【岡田斗司夫 切り抜き サイコパス】",
+          "video_url": "https://www.youtube.com/watch?v=RAcztQLc42E",
+          "channel_name": "岡田斗司夫マインド【サイコパス】",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "古いコンピューターのハードドライブを捨てないでください😱何十億もの人々がこの秘密を知りません",
+          "video_url": "https://www.youtube.com/watch?v=-ylx0WL5Zn8",
+          "channel_name": "Inventor 247",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "知らないと毎日後悔するエアコンの電気代を激減させる裏技TOP5！",
+          "video_url": "https://www.youtube.com/watch?v=XkM4-JwOxy0",
+          "channel_name": "職人社長の家づくり工務店",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "【決定的証拠】佐藤二朗氏と橋本愛氏の文春報道で冤罪確定となる現場の声 ※フジテレビハラスメント疑惑の真相※ 長谷川豊×須田慎一郎 対談SP （虎ノ門ニュース）",
+          "video_url": "https://www.youtube.com/watch?v=TRerhHN-g0w",
+          "channel_name": "真相深入り! 虎ノ門ニュース",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "【魔の時間】動脈硬化になる人は、朝の7時に決まった習慣がありました。",
+          "video_url": "https://www.youtube.com/watch?v=oeevqbjw61k",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "Most Incredible Cruise Ship Videos Ever Captured",
+          "video_url": "https://www.youtube.com/watch?v=1xIsuxgI22o",
+          "channel_name": "Novella",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "鍵をなくした時に、たった5秒でドアを開ける方法！ マッチ棒だけでできます。",
+          "video_url": "https://www.youtube.com/watch?v=Uuhm2nSXb4Y",
+          "channel_name": "Diy tips",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "お前の成功の定義を他人に握らせるな",
+      "url": "https://www.youtube.com/watch?v=3vwZiy-37sQ",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "大食い系YouTuber、フードファイターが痩せている本当の理由",
+          "video_url": "https://www.youtube.com/watch?v=pyGL4AcBYts",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "T.M.Revolution - HOT LIMIT / THE FIRST TAKE",
+          "video_url": "https://www.youtube.com/watch?v=Lz24PqZkF2s",
+          "channel_name": "THE FIRST TAKE",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "売り上げ規模491億円の企業が不正！税優遇を受けるために所得を大幅隠し…対策を立案しました。",
+          "video_url": "https://www.youtube.com/watch?v=oRgYWPO9JQw",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "【「才能」じゃない】なぜあの人は応援されるのか？",
+          "video_url": "https://www.youtube.com/watch?v=eykOxsK-wS4",
+          "channel_name": "永松茂久チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【シングルDX】サンライズ出雲の最高額の個室に乗ってみた",
+          "video_url": "https://www.youtube.com/watch?v=xMVDgYO89zU",
+          "channel_name": "スーツ 旅行 / Suit Travel",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "【インタビュー】＜前編＞不登校の原因はいじめではない？その原因は”家庭への不満”！？ #教員 #教育 #学校現場 #不登校",
+          "video_url": "https://www.youtube.com/watch?v=1K1UhJBHR84",
+          "channel_name": "olly club (オリークラブ)",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "【※神回】日本語ペラペラのポーランド美女と1年ぶりに日本で再会して誕生日サプライズしたら…",
+          "video_url": "https://www.youtube.com/watch?v=s-H_69xGDaQ",
+          "channel_name": "Kazu Languages",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "プレステ33年の歴史に幕…ディスク版廃止で炎上、署名21万件、DL版85%の現実。",
+          "video_url": "https://www.youtube.com/watch?v=Wquz-6x0HXs",
+          "channel_name": "ナカイドのゲーム情報チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "世界中の何十億人もの人々がこのツールの秘密を知りません |素晴らしいDIYツール",
+          "video_url": "https://www.youtube.com/watch?v=ZAc72aPUHSs",
+          "channel_name": "WELD VTQ",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "ワキガ・体臭は本当に遺伝なのか!? 手術でも治らない…その原因は食生活かもしれない",
+          "video_url": "https://www.youtube.com/watch?v=konAP5YxFto",
+          "channel_name": "吉野敏明チャンネル〜日本の病を治す〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "マイオンリー",
+          "video_url": "https://www.youtube.com/watch?v=Z2n70Trnr0A",
+          "channel_name": "SixTONES",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【木村さ〜〜ん！】緊急会議！？木村先輩vs後輩たちの熱き戦いが開幕！",
+          "video_url": "https://www.youtube.com/watch?v=gyjrkFlE5P8",
+          "channel_name": "木村拓哉",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "良い恥と悪い恥",
+      "url": "https://www.youtube.com/watch?v=yrQNQ1jStQA",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "夏の電気代対策エアコンの「自動」ボタン1つで半額 節約術を大公開",
+          "video_url": "https://www.youtube.com/watch?v=dfYAVi10mhU",
+          "channel_name": "職人社長の家づくり工務店",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "【ドラレコ】突然！目の前で軽自動車が…こんなの無理だろ！衝撃の瞬間25選最新ドラレコ交通安全危険予知",
+          "video_url": "https://www.youtube.com/watch?v=UZj75wfHL4E",
+          "channel_name": "ドラレコニュース【交通安全事故違反取締りチャンネル】",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "織田信長の妻の残酷な末路。信長が愛した女性たちの『その後』が悲惨すぎた。",
+          "video_url": "https://www.youtube.com/watch?v=KJNypOOiPV0",
+          "channel_name": "ガクの本棚",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【50歳以上必須】申請しないと大損！ねんきん定期便に載らない年金4選！",
+          "video_url": "https://www.youtube.com/watch?v=D9BI69GFWvs",
+          "channel_name": "年金・給付金完全攻略チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "他人の評価を気にする人",
+          "video_url": "https://www.youtube.com/watch?v=0Rr2AL1Q1mg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "Most Incredible Cruise Ship Videos Ever Captured",
+          "video_url": "https://www.youtube.com/watch?v=1xIsuxgI22o",
+          "channel_name": "Novella",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "占いや霊媒に頼るから運が悪くなるんだぞ",
+          "video_url": "https://www.youtube.com/watch?v=DV9R8SbY7Sg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "超大型台風バヴィが中国を直撃！上海から100万人が避難、パニック状態の群衆が駅と空港を埋め尽くす",
+          "video_url": "https://www.youtube.com/watch?v=B6-hri_xXYk",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【衝撃】「修学旅行で…」13歳で妊娠発覚、14歳で出産…シンママの壮絶人生と衝撃エピソードにスタジオも驚愕『ななにー 地下ABEMA』毎週日曜よる8時〜ABEMAで無料放送中 #ななにー",
+          "video_url": "https://www.youtube.com/watch?v=J-GlwQRx57g",
+          "channel_name": "ABEMA【アベマ】公式",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "中国を襲う暴風・豪雨・地震・洪水！豆腐カス工事のビル、橋、ダムが崩壊",
+          "video_url": "https://www.youtube.com/watch?v=sjoFgO7zS6E",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "15才で終身刑を宣告された少女 カーリー・グレッグ",
+          "video_url": "https://www.youtube.com/watch?v=_ustFYDKBGY",
+          "channel_name": "しいたけクライム",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "恥は最高の意識レベル、パワーとフォースの話",
+      "url": "https://www.youtube.com/watch?v=o_e_Bp_1NvI",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "ついに解禁⁉︎コインに針が貫通するマジック【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=xfZP-lm419M",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "大正天皇｜近代日本史最大のタブー。47歳の若さで崩御した謎多き生涯【第一次世界大戦】",
+          "video_url": "https://www.youtube.com/watch?v=9pIDJ25TcsA",
+          "channel_name": "あゝ、激動ノ時代ヲ。",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "『僕の仕事はもう終わりました』68歳を迎えた岡田斗司夫から皆さんへの大切なメッセージ【岡田斗司夫 切り抜き サイコパス】",
+          "video_url": "https://www.youtube.com/watch?v=RAcztQLc42E",
+          "channel_name": "岡田斗司夫マインド【サイコパス】",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "鍵なしで緊急ドアを開けるたった2分😱何十億もの人々がこの秘密を知らない！",
+          "video_url": "https://www.youtube.com/watch?v=vBuP2LGgqeY",
+          "channel_name": "Inventor 247",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "えのきに卵をかけると奇跡が起こる！母が教えてくれた驚きのレシピ！",
+          "video_url": "https://www.youtube.com/watch?v=zH5hrpDAeeI",
+          "channel_name": "SHARE CORNER",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "ワキガ・体臭は本当に遺伝なのか!? 手術でも治らない…その原因は食生活かもしれない",
+          "video_url": "https://www.youtube.com/watch?v=konAP5YxFto",
+          "channel_name": "吉野敏明チャンネル〜日本の病を治す〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "知らないと毎日後悔するエアコンの電気代を激減させる裏技TOP5！",
+          "video_url": "https://www.youtube.com/watch?v=XkM4-JwOxy0",
+          "channel_name": "職人社長の家づくり工務店",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "中国を襲う暴風・豪雨・地震・洪水！豆腐カス工事のビル、橋、ダムが崩壊",
+          "video_url": "https://www.youtube.com/watch?v=sjoFgO7zS6E",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "超大型台風バヴィが中国を直撃！上海から100万人が避難、パニック状態の群衆が駅と空港を埋め尽くす",
+          "video_url": "https://www.youtube.com/watch?v=B6-hri_xXYk",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "15才で終身刑を宣告された少女 カーリー・グレッグ",
+          "video_url": "https://www.youtube.com/watch?v=_ustFYDKBGY",
+          "channel_name": "しいたけクライム",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "ミスター・ビーン、著名人たちが笑いすぎて涙目に！ノンストップ映像集",
+          "video_url": "https://www.youtube.com/watch?v=JcD5oZ5bCEU",
+          "channel_name": "Papa Ruzz",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【ゾーンに入るBGM】音響心理学に基づいた集中力を高める音楽 │ 科学的アプローチで認知特性を考慮した作業・仕事・勉強用アンビエントミュージック",
+          "video_url": "https://www.youtube.com/watch?v=jT_FTKEgJRs",
+          "channel_name": "Calma Musica - Soothing Sound -",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【ドラレコ】突然！目の前で軽自動車が…こんなの無理だろ！衝撃の瞬間25選最新ドラレコ交通安全危険予知",
+          "video_url": "https://www.youtube.com/watch?v=UZj75wfHL4E",
+          "channel_name": "ドラレコニュース【交通安全事故違反取締りチャンネル】",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【ここにお金が流れる！】政府の「骨太の方針2026」を徹底解説します【370兆円】",
+          "video_url": "https://www.youtube.com/watch?v=yu9_QEwcvMY",
+          "channel_name": "大人の学び直しTV",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "試練と思わないとダメ",
+      "url": "https://www.youtube.com/watch?v=k6I3_quLuCU",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【漫画】食べ放題の店員が頼まない食べ物。原価率約35％…食品の状態で使い分ける…【メシのタネ】",
+          "video_url": "https://www.youtube.com/watch?v=gh9UMjeE79I",
+          "channel_name": "メシのタネ",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "なぜロシアは絶対に核兵器を使えないのか？【３つの理由】",
+          "video_url": "https://www.youtube.com/watch?v=nqMUlkZyaC4",
+          "channel_name": "ロシア解体新書、大人の学び直しTV",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "知らないと毎日後悔するエアコンの電気代を激減させる裏技TOP5！",
+          "video_url": "https://www.youtube.com/watch?v=XkM4-JwOxy0",
+          "channel_name": "職人社長の家づくり工務店",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【ドラレコ】突然！目の前で軽自動車が…こんなの無理だろ！衝撃の瞬間25選最新ドラレコ交通安全危険予知",
+          "video_url": "https://www.youtube.com/watch?v=UZj75wfHL4E",
+          "channel_name": "ドラレコニュース【交通安全事故違反取締りチャンネル】",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "【50歳以上必須】申請しないと大損！ねんきん定期便に載らない年金4選！",
+          "video_url": "https://www.youtube.com/watch?v=D9BI69GFWvs",
+          "channel_name": "年金・給付金完全攻略チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【魔の時間】動脈硬化になる人は、朝の7時に決まった習慣がありました。",
+          "video_url": "https://www.youtube.com/watch?v=oeevqbjw61k",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "【覆面パトカー vs 爆走フェラーリ‼️】推定１５０キロで猛追⁉️ [速度取り締まり]",
+          "video_url": "https://www.youtube.com/watch?v=QP0PLy8T2cc",
+          "channel_name": "Cool Cars In Japan",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "はじめて家に友達が遊びに来たら柴犬がこうなりました",
+          "video_url": "https://www.youtube.com/watch?v=KXYBvZzM_Lg",
+          "channel_name": "イッヌネコ大学",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "15才で終身刑を宣告された少女 カーリー・グレッグ",
+          "video_url": "https://www.youtube.com/watch?v=_ustFYDKBGY",
+          "channel_name": "しいたけクライム",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "恥は最高の意識レベル、パワーとフォースの話",
+          "video_url": "https://www.youtube.com/watch?v=o_e_Bp_1NvI",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "ワキガ・体臭は本当に遺伝なのか!? 手術でも治らない…その原因は食生活かもしれない",
+          "video_url": "https://www.youtube.com/watch?v=konAP5YxFto",
+          "channel_name": "吉野敏明チャンネル〜日本の病を治す〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "仏教は間違い。趣味にとって重要なのは妄想である",
+      "url": "https://www.youtube.com/watch?v=98FVCTHf08s",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "豊臣秀長の最期！52歳で死去した残酷すぎる晩年【豊臣兄弟！】",
+          "video_url": "https://www.youtube.com/watch?v=ZdKgMcOeQGI",
+          "channel_name": "拙者の出番じゃ!",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【養老町】被差別部落が栄えた裏側とは？現地からわかりやすく解説",
+          "video_url": "https://www.youtube.com/watch?v=cxwMU-UUA6Q",
+          "channel_name": "大人の教養TV",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "大正天皇｜近代日本史最大のタブー。47歳の若さで崩御した謎多き生涯【第一次世界大戦】",
+          "video_url": "https://www.youtube.com/watch?v=9pIDJ25TcsA",
+          "channel_name": "あゝ、激動ノ時代ヲ。",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "えのきに卵をかけると奇跡が起こる！母が教えてくれた驚きのレシピ！",
+          "video_url": "https://www.youtube.com/watch?v=zH5hrpDAeeI",
+          "channel_name": "SHARE CORNER",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "初めての留守番を隠し撮りしたら大号泣してました⋯",
+          "video_url": "https://www.youtube.com/watch?v=UM9beRmkTpA",
+          "channel_name": "イッヌネコ大学",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "【美輪明宏】99%の人が見逃している真実。運気が急上昇する「神の使い」と、破滅を呼ぶ「警告虫」｜偉人｜名言｜言葉の力｜人生哲学｜",
+          "video_url": "https://www.youtube.com/watch?v=NNN0KqTR8Lk",
+          "channel_name": "心を射る名言",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "占いや霊媒に頼るから運が悪くなるんだぞ",
+          "video_url": "https://www.youtube.com/watch?v=DV9R8SbY7Sg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "他人の評価を気にする人",
+          "video_url": "https://www.youtube.com/watch?v=0Rr2AL1Q1mg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "恥は最高の意識レベル、パワーとフォースの話",
+          "video_url": "https://www.youtube.com/watch?v=o_e_Bp_1NvI",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "超大型台風バヴィが中国を直撃！上海から100万人が避難、パニック状態の群衆が駅と空港を埋め尽くす",
+          "video_url": "https://www.youtube.com/watch?v=B6-hri_xXYk",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "15才で終身刑を宣告された少女 カーリー・グレッグ",
+          "video_url": "https://www.youtube.com/watch?v=_ustFYDKBGY",
+          "channel_name": "しいたけクライム",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "中国を襲う暴風・豪雨・地震・洪水！豆腐カス工事のビル、橋、ダムが崩壊",
+          "video_url": "https://www.youtube.com/watch?v=sjoFgO7zS6E",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "引き寄せの法則の神秘化をやめろ",
+      "url": "https://www.youtube.com/watch?v=64mnlYfOdN4",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【人間関係】年商142億円、天才社長が語る関わらない方がいい人間の特徴とは【 ゆとりくん 】",
+          "video_url": "https://www.youtube.com/watch?v=ED2h5l1pqjQ",
+          "channel_name": "コヤッキーチャンネル【開運バラエティ】、ゆとりくんチャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "占い師に嘘つかれて揉めた",
+          "video_url": "https://www.youtube.com/watch?v=IlIx8g5zW8A",
+          "channel_name": "コヤッキーチャンネル【開運バラエティ】",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【脂肪肝】何をやっても痩せない本当の理由。14日で数値を正常化する最強の食べ物5選",
+          "video_url": "https://www.youtube.com/watch?v=dV_BAgpHWr4",
+          "channel_name": "人生最後のダイエットチャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "人生変えたい人必見。手放していいものと絶対手放してはいけないもの",
+          "video_url": "https://www.youtube.com/watch?v=xQa6eC87CQI",
+          "channel_name": "Kenji Spirit",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "イーロンが語る数年後…地獄の未来が待っていました【 都市伝説 MATT SHOW 闇の3日間 】",
+          "video_url": "https://www.youtube.com/watch?v=nIjvZsCrCTM",
+          "channel_name": "秘密結社コヤミナティ",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "超大型台風バヴィが中国を直撃！上海から100万人が避難、パニック状態の群衆が駅と空港を埋め尽くす",
+          "video_url": "https://www.youtube.com/watch?v=B6-hri_xXYk",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【全捨て】６５歳までに捨てないと不幸になる絶対捨てるべき１０個の物",
+          "video_url": "https://www.youtube.com/watch?v=GQpQS8G8dO0",
+          "channel_name": "捨て活で人生好転TV【ETSUKO】",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "中国を襲う暴風・豪雨・地震・洪水！豆腐カス工事のビル、橋、ダムが崩壊",
+          "video_url": "https://www.youtube.com/watch?v=sjoFgO7zS6E",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "他人の評価を気にする人",
+          "video_url": "https://www.youtube.com/watch?v=0Rr2AL1Q1mg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【操り無双】操り師板倉が相性抜群の女優を操縦したら、振り回された三四郎小宮がぶっ壊れる！",
+          "video_url": "https://www.youtube.com/watch?v=qKAyZYGBk3Q",
+          "channel_name": "佐久間宣行のNOBROCK TV",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "【知らないと損！】7月の運気がアップする開運アクション7選",
+          "video_url": "https://www.youtube.com/watch?v=sUqvBD7Z7NI",
+          "channel_name": "占いTV Love Me Do ラブちゃん",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "外見など見るな…女性を見るなら、\"ここ\"を見ろ――本当に徳のある女性は、必ずそこに出る 【北野武】",
+          "video_url": "https://www.youtube.com/watch?v=Bs8JiL1qFIc",
+          "channel_name": "人生を読む",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "7/11LIVE！AI犯罪低年齢化・週刊誌報道と国会・中国が強気に？",
+          "video_url": "https://www.youtube.com/watch?v=KEbRqKDqSts",
+          "channel_name": "髙橋洋一チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【ドラレコ】突然！目の前で軽自動車が…こんなの無理だろ！衝撃の瞬間25選最新ドラレコ交通安全危険予知",
+          "video_url": "https://www.youtube.com/watch?v=UZj75wfHL4E",
+          "channel_name": "ドラレコニュース【交通安全事故違反取締りチャンネル】",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "【エノク書】すべての真実を語ります。覚悟してご覧ください。",
+          "video_url": "https://www.youtube.com/watch?v=MbnvSHfvsKU",
+          "channel_name": "TOLAND VLOG",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "天才ミュージシャンが一瞬で消える理由｜生存戦略の核心",
+          "video_url": "https://www.youtube.com/watch?v=aj4PV7TdlXM",
+          "channel_name": "バンドマンしか知らないセカイ / 平井拓郎",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "量子重力は精神病",
+      "url": "https://www.youtube.com/watch?v=gNeJGwrCFX0",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "【重力を説明できない→この世界が2次元からのホログラムと考えれば計算できる】物理学者・橋本幸士／量子もつれから時空が創発／ブラックホールとエントロピーの関係からたどり着いた【ULTRASCIENCE】",
+          "video_url": "https://www.youtube.com/watch?v=fEv5p9ufdzU",
+          "channel_name": "TBS CROSS DIG with Bloomberg",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【量子コンピューター】経済効果1000兆円超!? 実用化いつ?／がん特効薬開発・暗号解読が容易に!?／従来型コンピューターとの”分業”から始まる／核融合でエネルギー革命が起こる《野村泰紀が徹底解説》",
+          "video_url": "https://www.youtube.com/watch?v=DamZ3M14Zms",
+          "channel_name": "楽待 RAKUMACHI",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "【野村泰紀】ゼロからの量子力学／なぜモノは机をすり抜けないのか？／「とびとび力学」としての量子論／「並行世界は存在する」といえるワケ／量子コンピュータ…物理学者・野村泰紀#2【BLUE BACKS+】",
+          "video_url": "https://www.youtube.com/watch?v=b56ns2IIcW4",
+          "channel_name": "【科学の教養】ブルーバックスチャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【宇宙は幻なのか？】京大教授「ホログラフィック原理」・橋本幸士／タイムトラベルは可能なのか？／シン・エヴァンゲリオン物理学監修／学習物理学を新しく開拓する【EXTREME SCIENCE】",
+          "video_url": "https://www.youtube.com/watch?v=IJ0Tu1byqSw",
+          "channel_name": "PIVOT 公式チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【野村泰紀vs核融合】エネルギー革命！物理学者が語る未来とは？【ReHacQ高橋弘樹】",
+          "video_url": "https://www.youtube.com/watch?v=r-GwLxrxsJY",
+          "channel_name": "ReHacQ−リハック−【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "オニヤンマにオオスズメバチを近づけると...",
+          "video_url": "https://www.youtube.com/watch?v=OkdDvs_mfZc",
+          "channel_name": "おーちゃんねる",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "【量子もつれを利用した究極の暗号通信「量子テレポーテーション」は時空の言葉でワームホールか】宇宙物理学者・野村泰紀とは何者か【CROSS DIG 1on1】",
+          "video_url": "https://www.youtube.com/watch?v=O3P_0m9G6SY",
+          "channel_name": "TBS CROSS DIG with Bloomberg",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【高橋弘樹vs物理学者】失われた30年…なぜ？量子コンピュータで日本が勝つ方法とは？【ReHacQvs藤井啓祐】",
+          "video_url": "https://www.youtube.com/watch?v=eAcHbx-jAIg",
+          "channel_name": "ReHacQ−リハック−【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【1秒】60年ぶりに長さ変わる…ってどゆこと？人類の進歩？量子物理学者・野村泰紀×ひろゆき｜アベプラ",
+          "video_url": "https://www.youtube.com/watch?v=4K5SWePuJ94",
+          "channel_name": "ABEMA Prime #アベプラ【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "【橋本幸士】物理学者はどんな本を読んでいるのか？／宇宙物理学の名著／「量子力学」を理解するヒント／二次元・ホログラフィー・四次元／科学を学ぶなら「シャーロック・ホームズ」を読め【ブルーバックス出張編】",
+          "video_url": "https://www.youtube.com/watch?v=jVctS93lYtg",
+          "channel_name": "【科学の教養】ブルーバックスチャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "【高橋弘樹vs藤井啓祐】AIを超える衝撃！？暗号が無意味に...量子コンピュータで何が起こる?【ReHacQ】",
+          "video_url": "https://www.youtube.com/watch?v=N_TN7cjlnw0",
+          "channel_name": "ReHacQ−リハック−【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "記憶の定着に関するメカニズムを解明！最新脳細胞研究 長井淳（理化学研究所 脳神経科学研究センター・チームディレクター）【いまからサイエンス】",
+          "video_url": "https://www.youtube.com/watch?v=Via7gmjIEbk",
+          "channel_name": "テレ東BIZ ダイジェスト",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "AI就職氷河期が始まる！？加速するAI職奪と生き残る仕事とは…？｜【ナオキマンの都市伝説ワイドショー3】毎週火曜よる11時〜ABEMAで無料配信",
+          "video_url": "https://www.youtube.com/watch?v=j--PRx7wUy0",
+          "channel_name": "ABEMA バラエティ【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【成田悠輔が推薦の天才】シン量子力学！6歳にわかるように説明してみよう！【ReHacQvs野村泰紀】",
+          "video_url": "https://www.youtube.com/watch?v=DEG9OZoYzIU",
+          "channel_name": "ReHacQ−リハック−【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "超知能AIは人類を“必ず”滅ぼすか～『超知能AIをつくれば人類は絶滅する』を橋本幸治と読み解く【豊島晋作のテレ東ワールドポリティクス】",
+          "video_url": "https://www.youtube.com/watch?v=1DWvNSGjw4g",
+          "channel_name": "テレ東BIZ ダイジェスト",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【猫が生きていて同時に死んでいる？】量子力学を代表する思考実験「シュレディンガーの猫」から、iPhoneやMRIなど現代テクノロジーの裏側まで。田村淳と野村教授が語る、世界が重なり合う驚きの真実。",
+          "video_url": "https://www.youtube.com/watch?v=RYt9SelwUrs",
+          "channel_name": "XU (クロスユー) - X innovation empowers U",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "他人の評価を気にする人",
+      "url": "https://www.youtube.com/watch?v=0Rr2AL1Q1mg",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "行政書士試験の失敗談を話します！",
+          "video_url": "https://www.youtube.com/watch?v=3q0uzeqD2LU",
+          "channel_name": "すみれの咲く頃に〜行政書士になる〜開業奮闘記",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "【魔の時間】動脈硬化になる人は、朝の7時に決まった習慣がありました。",
+          "video_url": "https://www.youtube.com/watch?v=oeevqbjw61k",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "東電OL事件。真犯人の正体と被害者が狙われた本当の理由【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=Sidd0G5z7jw",
+          "channel_name": "ゆっくり怪奇事件簿",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "【ADHD/ASD】一瞬で分かる!?発達障害で体力がない人の5つの特徴【精神科医と公認心理師が語る】",
+          "video_url": "https://www.youtube.com/watch?v=GPDSwyQ8PuQ",
+          "channel_name": "精神科医竹内ひびきのメンタルヘルスCh",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "ワキガ・体臭は本当に遺伝なのか!? 手術でも治らない…その原因は食生活かもしれない",
+          "video_url": "https://www.youtube.com/watch?v=konAP5YxFto",
+          "channel_name": "吉野敏明チャンネル〜日本の病を治す〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【ADHD】集中できない本当の理由。ドーパミンを知れば脳は変わる",
+          "video_url": "https://www.youtube.com/watch?v=zEfkYnUb4JI",
+          "channel_name": "あやか先生 内科医 ・認知症医 白土綾佳",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "恥は最高の意識レベル、パワーとフォースの話",
+          "video_url": "https://www.youtube.com/watch?v=o_e_Bp_1NvI",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "哲学という無意味行為で気持ちよくなっちゃった",
+      "url": "https://www.youtube.com/watch?v=WMzEJux8xu4",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "『僕の仕事はもう終わりました』68歳を迎えた岡田斗司夫から皆さんへの大切なメッセージ【岡田斗司夫 切り抜き サイコパス】",
+          "video_url": "https://www.youtube.com/watch?v=RAcztQLc42E",
+          "channel_name": "岡田斗司夫マインド【サイコパス】",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "他人の評価を気にする人",
+          "video_url": "https://www.youtube.com/watch?v=0Rr2AL1Q1mg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【ドラレコ】突然！目の前で軽自動車が…こんなの無理だろ！衝撃の瞬間25選最新ドラレコ交通安全危険予知",
+          "video_url": "https://www.youtube.com/watch?v=UZj75wfHL4E",
+          "channel_name": "ドラレコニュース【交通安全事故違反取締りチャンネル】",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "プレステ33年の歴史に幕…ディスク版廃止で炎上、署名21万件、DL版85%の現実。",
+          "video_url": "https://www.youtube.com/watch?v=Wquz-6x0HXs",
+          "channel_name": "ナカイドのゲーム情報チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "15才で終身刑を宣告された少女 カーリー・グレッグ",
+          "video_url": "https://www.youtube.com/watch?v=_ustFYDKBGY",
+          "channel_name": "しいたけクライム",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "【速報】国がありとあらゆる資産を投売りました…一体何が起きているんだ？！",
+          "video_url": "https://www.youtube.com/watch?v=CmK1WKqWREg",
+          "channel_name": "レバナス1本リーマン",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "占いや霊媒に頼るから運が悪くなるんだぞ",
+          "video_url": "https://www.youtube.com/watch?v=DV9R8SbY7Sg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "海外で行われたChatGPTの研究、とんでもない結果になり話題になってしまうwwww",
+          "video_url": "https://www.youtube.com/watch?v=vlQ_z9gDBl8",
+          "channel_name": "速報",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "皇室消滅の危機！皇室典範改正で何が変わる？男系継承を守るための「禁じ手」と真相 宇山卓栄氏 #745",
+          "video_url": "https://www.youtube.com/watch?v=vE1LkN-eUq4",
+          "channel_name": "政経プラットフォーム",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "【ホリエモン】オリラジ中田完全終了です。",
+          "video_url": "https://www.youtube.com/watch?v=HmO5xaC-apA",
+          "channel_name": "サクッと ! ホリエモン【切り抜き】",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "AIなどもう信用せんぞ",
+      "url": "https://www.youtube.com/watch?v=MsAKhAQFC_I",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "カメラが捉えた最悪の着陸失敗映像",
+          "video_url": "https://www.youtube.com/watch?v=a9tVg4m6cWs",
+          "channel_name": "lucaas",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "「捨てずに片付け」で部屋がスッキリ！ 収納のプロ・古堅純子さんが教える“新常識”の片付け術 豊崎由里絵さんの自宅を大改造｜旬感LIVE とれたてっ!〈カンテレNEWS〉",
+          "video_url": "https://www.youtube.com/watch?v=dp-kRvM5xWI",
+          "channel_name": "カンテレNEWS",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【独占】misono 夫の精巣がん・不妊治療を経て母親に…男児誕生の瞬間の記録映像も 姉・倖田來未ら“家族報告会”にカメラ潜入｜NO MAKE",
+          "video_url": "https://www.youtube.com/watch?v=Y5PbXKL9vP8",
+          "channel_name": "ABEMAニュース【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "AIエージェント講座（東京大学メタバース工学部ジュニア講座）",
+          "video_url": "https://www.youtube.com/watch?v=DjUFoe23qFw",
+          "channel_name": "東京大学 吉田塁 研究室",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "noteを好き勝手に書くだけで暮らせる生成AIをつかった「永久機関」の作り方",
+          "video_url": "https://www.youtube.com/watch?v=cmUvdMhzWv8",
+          "channel_name": "「かくじかん」",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【悲報】人類はフェイクニュースに勝てません。",
+          "video_url": "https://www.youtube.com/watch?v=nMTNd6Jc5Ng",
+          "channel_name": "積読チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "15才で終身刑を宣告された少女 カーリー・グレッグ",
+          "video_url": "https://www.youtube.com/watch?v=_ustFYDKBGY",
+          "channel_name": "しいたけクライム",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "中国を襲う暴風・豪雨・地震・洪水！豆腐カス工事のビル、橋、ダムが崩壊",
+          "video_url": "https://www.youtube.com/watch?v=sjoFgO7zS6E",
+          "channel_name": "China Observer",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "数年前には大人気だったのに今は選ばれない…？消えゆく設備と間取り10選",
+          "video_url": "https://www.youtube.com/watch?v=RrJaB86mRA0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "マシな現実を選ぶ",
+      "url": "https://www.youtube.com/watch?v=a7PJnQmspOM",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "ラランドのニシダがあまりにも強すぎた【筋トレ未経験の異常個体】",
+          "video_url": "https://www.youtube.com/watch?v=1Qf_Vghv6T4",
+          "channel_name": "魔裟斗チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "バトルシップ",
+          "video_url": "https://www.youtube.com/watch?v=ICmmz6hNftQ",
+          "channel_name": "アクション、アドベンチャー • 2012",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "【夏カフェBGM】初夏の空気感じる🏝️穏やか朝ボサノバ｜作業用BGM｜",
+          "video_url": "https://www.youtube.com/watch?v=zJVopdHDi44",
+          "channel_name": "季節を感じる癒しのBGMチャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "『僕の仕事はもう終わりました』68歳を迎えた岡田斗司夫から皆さんへの大切なメッセージ【岡田斗司夫 切り抜き サイコパス】",
+          "video_url": "https://www.youtube.com/watch?v=RAcztQLc42E",
+          "channel_name": "岡田斗司夫マインド【サイコパス】",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "🇯🇵天才の脳は作れます。たった3日で脳を40倍アップグレードする方法【脳科学的勉強法",
+          "video_url": "https://www.youtube.com/watch?v=qWbPDOKEMqc",
+          "channel_name": "一日ひとつの心理学",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "東電OL事件。真犯人の正体と被害者が狙われた本当の理由【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=Sidd0G5z7jw",
+          "channel_name": "ゆっくり怪奇事件簿",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【遂に始まった…？】日米株価に怪しい兆し…ゴールデンタイムは終了したのか？｜今、私たち個人投資家は何をするべきなのか【元ゴールドマンサックスが徹底解説】",
+          "video_url": "https://www.youtube.com/watch?v=BfFfIF5Tvoc",
+          "channel_name": "おーちゃん【元外銀マン】",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【決定的証拠】佐藤二朗氏と橋本愛氏の文春報道で冤罪確定となる現場の声 ※フジテレビハラスメント疑惑の真相※ 長谷川豊×須田慎一郎 対談SP （虎ノ門ニュース）",
+          "video_url": "https://www.youtube.com/watch?v=TRerhHN-g0w",
+          "channel_name": "真相深入り! 虎ノ門ニュース",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【アレン様×中村うさぎ】恋人に期待するな！人間よりカネを信じろ！金なし人生でも後悔しない生き方《禁断の初共演②》",
+          "video_url": "https://www.youtube.com/watch?v=OfWqrwaOPH4",
+          "channel_name": "楽待 RAKUMACHI",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【ADHD】集中できない本当の理由。ドーパミンを知れば脳は変わる",
+          "video_url": "https://www.youtube.com/watch?v=zEfkYnUb4JI",
+          "channel_name": "あやか先生 内科医 ・認知症医 白土綾佳",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "ゆいぴす\"騒動\"後初収録！ アレン様✕ゆいぴす✕あっすんVSひろゆき 整形は必要？容姿を磨くなら⋯努力VS整形【美しすぎる怪物たち | 整形の本音トーク】",
+          "video_url": "https://www.youtube.com/watch?v=FuAmJVUgR1k",
+          "channel_name": "ビューティースタジアム",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【漫画】「もっと早くやっておけば…」手遅れになる前に、体が元気なうちに絶対やるべき7つのこと",
+          "video_url": "https://www.youtube.com/watch?v=KqoRvGWFO34",
+          "channel_name": "人間のトリビア",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "ワキガ・体臭は本当に遺伝なのか!? 手術でも治らない…その原因は食生活かもしれない",
+          "video_url": "https://www.youtube.com/watch?v=konAP5YxFto",
+          "channel_name": "吉野敏明チャンネル〜日本の病を治す〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "大食い系YouTuber、フードファイターが痩せている本当の理由",
+          "video_url": "https://www.youtube.com/watch?v=pyGL4AcBYts",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "普通とは奇跡である",
+      "url": "https://www.youtube.com/watch?v=OQk8CD9WI3U",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "大正天皇｜近代日本史最大のタブー。47歳の若さで崩御した謎多き生涯【第一次世界大戦】",
+          "video_url": "https://www.youtube.com/watch?v=9pIDJ25TcsA",
+          "channel_name": "あゝ、激動ノ時代ヲ。",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【魔の時間】動脈硬化になる人は、朝の7時に決まった習慣がありました。",
+          "video_url": "https://www.youtube.com/watch?v=oeevqbjw61k",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【最新】橋本愛さんを巡る一連の報道になり大炎上...…黒歴史が暴露!!",
+          "video_url": "https://www.youtube.com/watch?v=iUWHOHi2XTQ",
+          "channel_name": "Sun",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "世界中の何十億人もの人々がこのツールの秘密を知りません |素晴らしいDIYツール",
+          "video_url": "https://www.youtube.com/watch?v=ZAc72aPUHSs",
+          "channel_name": "WELD VTQ",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "山本太郎氏「やめた。やりません、もう」 国会議員への復帰を否定（2026年7月9日）",
+          "video_url": "https://www.youtube.com/watch?v=OfgfPwhSAGw",
+          "channel_name": "THE PAGE（ザ・ページ）",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "はじめて家に友達が遊びに来たら柴犬がこうなりました",
+          "video_url": "https://www.youtube.com/watch?v=KXYBvZzM_Lg",
+          "channel_name": "イッヌネコ大学",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "占いや霊媒に頼るから運が悪くなるんだぞ",
+          "video_url": "https://www.youtube.com/watch?v=DV9R8SbY7Sg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "知能が低いのと愚者は違う",
+      "url": "https://www.youtube.com/watch?v=3JCRFHiWjTA",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "「淡々と殺されたくない」養老孟司が懸念する“戦争の手続化”…「いつも気になるのは北の偉い人」”養老流”世界の見方、コロナで感じた詐欺表現「自民党は憲法改正本気なの？」感情教育の必要性とは？【落合陽一】",
+          "video_url": "https://www.youtube.com/watch?v=NMnVS6GL9m0",
+          "channel_name": "NewsPicks /ニューズピックス",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "なぜ、街にレクサスやベンツが溢れてる？【平均年収478万の日本】みんな本当に金持ちなのか？#bmw #アウディ #nx #rx #lbx #glc #glb #cクラス #3シリーズ #x1 #x3",
+          "video_url": "https://www.youtube.com/watch?v=UPDaK5RE1MU",
+          "channel_name": "元ベンツ営業",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "東電OL事件。真犯人の正体と被害者が狙われた本当の理由【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=Sidd0G5z7jw",
+          "channel_name": "ゆっくり怪奇事件簿",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "世界一小さい1畳の家を作ってみた！トイレ・シャワー・キッチン全部入り！",
+          "video_url": "https://www.youtube.com/watch?v=gPc9-aosi18",
+          "channel_name": "旅する家の物語",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "【魔の時間】動脈硬化になる人は、朝の7時に決まった習慣がありました。",
+          "video_url": "https://www.youtube.com/watch?v=oeevqbjw61k",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "世界中の何十億人もの人々がこのツールの秘密を知りません |素晴らしいDIYツール",
+          "video_url": "https://www.youtube.com/watch?v=ZAc72aPUHSs",
+          "channel_name": "WELD VTQ",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "【ADHD】集中できない本当の理由。ドーパミンを知れば脳は変わる",
+          "video_url": "https://www.youtube.com/watch?v=zEfkYnUb4JI",
+          "channel_name": "あやか先生 内科医 ・認知症医 白土綾佳",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【なぜ報道しない!?】無糖炭酸水+⚪︎⚪︎⚪︎⚪︎の効果！今すぐ飲んでください！！！！！【糖尿病専門クリニック現役医師】",
+          "video_url": "https://www.youtube.com/watch?v=nssSLhtaq6k",
+          "channel_name": "糖尿病の専門家",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "ワキガ・体臭は本当に遺伝なのか!? 手術でも治らない…その原因は食生活かもしれない",
+          "video_url": "https://www.youtube.com/watch?v=konAP5YxFto",
+          "channel_name": "吉野敏明チャンネル〜日本の病を治す〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "自己責任思想✕ニューエイジ思想＝ラリっている",
+      "url": "https://www.youtube.com/watch?v=OW2E0TZnvlQ",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "元イスラエル兵/600万人が虐○されたユダヤ人がガサ侵攻で数千人の子供○す訳/終わらない戦争と洗脳",
+          "video_url": "https://www.youtube.com/watch?v=-pIjMNVLe8w",
+          "channel_name": "街録ch〜あなたの人生、教えて下さい〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "東電OL事件。真犯人の正体と被害者が狙われた本当の理由【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=Sidd0G5z7jw",
+          "channel_name": "ゆっくり怪奇事件簿",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "完璧に着陸したカプセルの中で絶命していた3人の宇宙飛行士。20年以上隠蔽されたソユーズ11号減圧事故の真相【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=3DPRbvN1Hgg",
+          "channel_name": "ゆっくり事故検証",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【逃げろ】超大物投資家がとんでもない事を言いました。",
+          "video_url": "https://www.youtube.com/watch?v=zvBoFClIgws",
+          "channel_name": "レバナス1本リーマン",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "他人の評価を気にする人",
+          "video_url": "https://www.youtube.com/watch?v=0Rr2AL1Q1mg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "プーチンの軍用補給列車がクリミアに進入、直後にウクライナが爆破",
+          "video_url": "https://www.youtube.com/watch?v=ac0HZqGhDeQ",
+          "channel_name": "TactiScope",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "【知らないと損】充電と個人情報を\"同時に\"奪う設定はコレ…切れば2倍長持ち＋監視も全て止まります。",
+          "video_url": "https://www.youtube.com/watch?v=vtWjy8iNEqk",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【独占】misono 夫の精巣がん・不妊治療を経て母親に…男児誕生の瞬間の記録映像も 姉・倖田來未ら“家族報告会”にカメラ潜入｜NO MAKE",
+          "video_url": "https://www.youtube.com/watch?v=Y5PbXKL9vP8",
+          "channel_name": "ABEMAニュース【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "占いや霊媒に頼るから運が悪くなるんだぞ",
+          "video_url": "https://www.youtube.com/watch?v=DV9R8SbY7Sg",
+          "channel_name": "sugishun",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "陰謀論ではない…京都大学のウイルス学者が暴露した真実【 都市伝説 MATT SHOW 闇の3日間 】",
+          "video_url": "https://www.youtube.com/watch?v=oIVq78Yw-58",
+          "channel_name": "秘密結社コヤミナティ",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【7月6日破産】全東信で未入金2万店舗…飲食店が取るべき手順",
+          "video_url": "https://www.youtube.com/watch?v=f2pCfQVoiXk",
+          "channel_name": "永田ラッパ〜食事を楽しく幸せに〜",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "オネチョ予防でメンクリ行きます",
+      "url": "https://www.youtube.com/watch?v=Qv_7DUaRz64",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "世界一小さい1畳の家を作ってみた！トイレ・シャワー・キッチン全部入り！",
+          "video_url": "https://www.youtube.com/watch?v=gPc9-aosi18",
+          "channel_name": "旅する家の物語",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【魔の時間】動脈硬化になる人は、朝の7時に決まった習慣がありました。",
+          "video_url": "https://www.youtube.com/watch?v=oeevqbjw61k",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "KO1KEYZ(コイキーズ)｜メンバーカラー決定",
+          "video_url": "https://www.youtube.com/watch?v=P21NXui4c-o",
+          "channel_name": "KO1KEYZ",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【2026年完全版】最新研究で分かった、LDL/悪玉コレステロールが高い人が薬を飲む前にやるべきこと",
+          "video_url": "https://www.youtube.com/watch?v=5mbcLv7M8Z4",
+          "channel_name": "ドクターハッシー/内科医 橋本将吉",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "豊臣秀長の最期！52歳で死去した残酷すぎる晩年【豊臣兄弟！】",
+          "video_url": "https://www.youtube.com/watch?v=ZdKgMcOeQGI",
+          "channel_name": "拙者の出番じゃ!",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "【ADHD】集中できない本当の理由。ドーパミンを知れば脳は変わる",
+          "video_url": "https://www.youtube.com/watch?v=zEfkYnUb4JI",
+          "channel_name": "あやか先生 内科医 ・認知症医 白土綾佳",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【かまいたち】熱狂的サッカーファンがJリーグレジェンドに答えてほしいこと＜Jリーグ編＞「これ余談なんですけど...」ナイトinナイト",
+          "video_url": "https://www.youtube.com/watch?v=Sjp2Fx5-zEU",
+          "channel_name": "ナイトinナイト【ABCテレビ公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "東電OL事件。真犯人の正体と被害者が狙われた本当の理由【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=Sidd0G5z7jw",
+          "channel_name": "ゆっくり怪奇事件簿",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "【習近平に感謝？？】中国が太平洋にミサイル発射も、実は日本にとって「ありがたい」大チャンスである理由｜竹田恒泰チャンネル2",
+          "video_url": "https://www.youtube.com/watch?v=Wzr3uRqllTk",
+          "channel_name": "【公式】竹田恒泰チャンネル 2",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "【7月6日破産】全東信で未入金2万店舗…飲食店が取るべき手順",
+          "video_url": "https://www.youtube.com/watch?v=f2pCfQVoiXk",
+          "channel_name": "永田ラッパ〜食事を楽しく幸せに〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "ドッグランで噛まれしまった柴犬、病院で診てもらったら予想外の結果でした…",
+          "video_url": "https://www.youtube.com/watch?v=ZYTpriMAyvA",
+          "channel_name": "柴犬ロックちゃんねる。",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "プーチンの軍用補給列車がクリミアに進入、直後にウクライナが爆破",
+          "video_url": "https://www.youtube.com/watch?v=ac0HZqGhDeQ",
+          "channel_name": "TactiScope",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "7/11LIVE！AI犯罪低年齢化・週刊誌報道と国会・中国が強気に？",
+          "video_url": "https://www.youtube.com/watch?v=KEbRqKDqSts",
+          "channel_name": "髙橋洋一チャンネル",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "つながりを増やしていきましょうよ",
+      "url": "https://www.youtube.com/watch?v=ZAsumUf3etE",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "夏の電気代対策エアコンの「自動」ボタン1つで半額 節約術を大公開",
+          "video_url": "https://www.youtube.com/watch?v=dfYAVi10mhU",
+          "channel_name": "職人社長の家づくり工務店",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "『僕の仕事はもう終わりました』68歳を迎えた岡田斗司夫から皆さんへの大切なメッセージ【岡田斗司夫 切り抜き サイコパス】",
+          "video_url": "https://www.youtube.com/watch?v=RAcztQLc42E",
+          "channel_name": "岡田斗司夫マインド【サイコパス】",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "超能力の闇を暴く！ジワジワ曲がるスプーン曲げ【種明かし】",
+          "video_url": "https://www.youtube.com/watch?v=Vz_h276mh5Y",
+          "channel_name": "ユジックの手品教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "巷の英語教員が普段使っている辞書たち。",
+          "video_url": "https://www.youtube.com/watch?v=XoFcWwPLid0",
+          "channel_name": "やるせな語学チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "豊臣秀長の最期！52歳で死去した残酷すぎる晩年【豊臣兄弟！】",
+          "video_url": "https://www.youtube.com/watch?v=ZdKgMcOeQGI",
+          "channel_name": "拙者の出番じゃ!",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "確実に地獄を見る…バレるので絶対やめて！重加算税・延滞税で大変なことになる",
+          "video_url": "https://www.youtube.com/watch?v=4Dgbvnh2Z2I",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "大正天皇｜近代日本史最大のタブー。47歳の若さで崩御した謎多き生涯【第一次世界大戦】",
+          "video_url": "https://www.youtube.com/watch?v=9pIDJ25TcsA",
+          "channel_name": "あゝ、激動ノ時代ヲ。",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【7月30日まで】なぜ今Googleが規約変更を行うのか？本当の理由と対策方法を徹底解説！【無視するとどうなる？】",
+          "video_url": "https://www.youtube.com/watch?v=BmP6dF_t3LI",
+          "channel_name": "後藤PC塾:プロが伝えるパソコン教室",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "この秘密を知れば、もう二度と新しいテレビリモコンを買う必要はありません！あらゆるテレビリモコンを修理する方法！😱",
+          "video_url": "https://www.youtube.com/watch?v=6z3H3gth5YY",
+          "channel_name": "Inventor New",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "東電OL事件。真犯人の正体と被害者が狙われた本当の理由【ゆっくり解説】",
+          "video_url": "https://www.youtube.com/watch?v=Sidd0G5z7jw",
+          "channel_name": "ゆっくり怪奇事件簿",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "【決定的証拠】佐藤二朗氏と橋本愛氏の文春報道で冤罪確定となる現場の声 ※フジテレビハラスメント疑惑の真相※ 長谷川豊×須田慎一郎 対談SP （虎ノ門ニュース）",
+          "video_url": "https://www.youtube.com/watch?v=TRerhHN-g0w",
+          "channel_name": "真相深入り! 虎ノ門ニュース",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "人々は木村モナを嘲笑していた…残酷なKOが始まるまでは。",
+          "video_url": "https://www.youtube.com/watch?v=AERI8Mg93ow",
+          "channel_name": "KO with Style",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "私はほぼ毎日、朝食にこのキャベツと卵を調理します。とても美味しくて、簡単で、早いです！# 292",
+          "video_url": "https://www.youtube.com/watch?v=v9xhO28awZg",
+          "channel_name": "viele Rezepte",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "離婚したその日。私は北海道への旅へ。彼は分娩室の前で愛人に付き添っていた。医師の一言――彼はその場で崩れ落ちた。",
+          "video_url": "https://www.youtube.com/watch?v=xqO2bZQpBYU",
+          "channel_name": "海外の感動話",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【ADHD/ASD】一瞬で分かる!?発達障害で体力がない人の5つの特徴【精神科医と公認心理師が語る】",
+          "video_url": "https://www.youtube.com/watch?v=GPDSwyQ8PuQ",
+          "channel_name": "精神科医竹内ひびきのメンタルヘルスCh",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "佐藤二朗と橋本愛の「爆弾ハラスメント」フジテレビと橋本が圧倒的に悪いでしょ",
+          "video_url": "https://www.youtube.com/watch?v=houOkLX1Drg",
+          "channel_name": "井川意高が熔ける日本を斬る",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    },
+    {
+      "title": "内発的動機、nostr、デジタル安息日",
+      "url": "https://www.youtube.com/watch?v=sXFSaVAwkpc",
+      "recommendations": [
+        {
+          "rank": 1,
+          "video_title": "インテリジェンス流・人脈の正体／友情に利害は必要か／「東大卒は出世できない」学歴の限界／AIに奪われる仕事 エリートから消えていく「生き残るのは占い師」（佐藤優×古市憲寿）#知性密談",
+          "video_url": "https://www.youtube.com/watch?v=jA5shWs-Sss",
+          "channel_name": "NewsPicks /ニューズピックス",
+          "channel_url": ""
+        },
+        {
+          "rank": 2,
+          "video_title": "【7月30日まで】Google 大幅に利用規約変更 ！絶対無視するな！",
+          "video_url": "https://www.youtube.com/watch?v=TCJtYY-vEJ8",
+          "channel_name": "パソコン博士TAIKI",
+          "channel_url": ""
+        },
+        {
+          "rank": 3,
+          "video_title": "私がアレン様についてどう思っているか正直に話します",
+          "video_url": "https://www.youtube.com/watch?v=X3s274bNY00",
+          "channel_name": "高須幹弥（高須クリニック）",
+          "channel_url": ""
+        },
+        {
+          "rank": 4,
+          "video_title": "ラランドのニシダがあまりにも強すぎた【筋トレ未経験の異常個体】",
+          "video_url": "https://www.youtube.com/watch?v=1Qf_Vghv6T4",
+          "channel_name": "魔裟斗チャンネル",
+          "channel_url": ""
+        },
+        {
+          "rank": 5,
+          "video_title": "今年最大の負債1,259憶円…全東信が破産した理由と今後起こり得る最悪の事態について解説します。",
+          "video_url": "https://www.youtube.com/watch?v=-uMqJPjif2c",
+          "channel_name": "脱・税理士スガワラくん",
+          "channel_url": ""
+        },
+        {
+          "rank": 6,
+          "video_title": "【決定的証拠】佐藤二朗氏と橋本愛氏の文春報道で冤罪確定となる現場の声 ※フジテレビハラスメント疑惑の真相※ 長谷川豊×須田慎一郎 対談SP （虎ノ門ニュース）",
+          "video_url": "https://www.youtube.com/watch?v=TRerhHN-g0w",
+          "channel_name": "真相深入り! 虎ノ門ニュース",
+          "channel_url": ""
+        },
+        {
+          "rank": 7,
+          "video_title": "ダウン症の寿命が延びて初めてわかった、アルツハイマーの現実",
+          "video_url": "https://www.youtube.com/watch?v=5o7_eoAHq_w",
+          "channel_name": "ひろし先生の家庭の遺伝学〜医師が言わない真実〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 8,
+          "video_title": "冷静に考えれば気づいたはず…買ってはいけない土地 7選",
+          "video_url": "https://www.youtube.com/watch?v=lJhJPaXl8e0",
+          "channel_name": "ぽりんき-注文住宅の家づくり攻略法-",
+          "channel_url": ""
+        },
+        {
+          "rank": 9,
+          "video_title": "【小林尊】「90秒で12Lの水を飲む」大食いで過酷トレーニング…代償は\"原因不明の体の異変” 番組出演時代の収入は｜NO MAKE",
+          "video_url": "https://www.youtube.com/watch?v=2ksCM39-ZLw",
+          "channel_name": "ABEMAニュース【公式】",
+          "channel_url": ""
+        },
+        {
+          "rank": 10,
+          "video_title": "【ADHD/ASD】一瞬で分かる!?発達障害で体力がない人の5つの特徴【精神科医と公認心理師が語る】",
+          "video_url": "https://www.youtube.com/watch?v=GPDSwyQ8PuQ",
+          "channel_name": "精神科医竹内ひびきのメンタルヘルスCh",
+          "channel_url": ""
+        },
+        {
+          "rank": 11,
+          "video_title": "【ADHD】集中できない本当の理由。ドーパミンを知れば脳は変わる",
+          "video_url": "https://www.youtube.com/watch?v=zEfkYnUb4JI",
+          "channel_name": "あやか先生 内科医 ・認知症医 白土綾佳",
+          "channel_url": ""
+        },
+        {
+          "rank": 12,
+          "video_title": "アンダークラス最貧困増やす高市政権/最低賃金引き上げ取り止め超格差社会へ/社会学者 橋本健二",
+          "video_url": "https://www.youtube.com/watch?v=kOo_4NUyNho",
+          "channel_name": "街録ch〜あなたの人生、教えて下さい〜",
+          "channel_url": ""
+        },
+        {
+          "rank": 13,
+          "video_title": "発達障害を暴露したのは「人格権侵害」 判決から考える職場での対応（朝日新聞）【2026.7.11（土）8:30】#発達障害 #精神障害",
+          "video_url": "https://www.youtube.com/watch?v=BmFPwBmdlyw",
+          "channel_name": "Kaien公式チャンネル【強み×仕事×自立】",
+          "channel_url": ""
+        },
+        {
+          "rank": 14,
+          "video_title": "『僕の仕事はもう終わりました』68歳を迎えた岡田斗司夫から皆さんへの大切なメッセージ【岡田斗司夫 切り抜き サイコパス】",
+          "video_url": "https://www.youtube.com/watch?v=RAcztQLc42E",
+          "channel_name": "岡田斗司夫マインド【サイコパス】",
+          "channel_url": ""
+        },
+        {
+          "rank": 15,
+          "video_title": "「捨てずに片付け」で部屋がスッキリ！ 収納のプロ・古堅純子さんが教える“新常識”の片付け術 豊崎由里絵さんの自宅を大改造｜旬感LIVE とれたてっ!〈カンテレNEWS〉",
+          "video_url": "https://www.youtube.com/watch?v=dp-kRvM5xWI",
+          "channel_name": "カンテレNEWS",
+          "channel_url": ""
+        },
+        {
+          "rank": 16,
+          "video_title": "カタログでは分からない、本当のオイル選び",
+          "video_url": "https://www.youtube.com/watch?v=J-3xYjR3q6U",
+          "channel_name": "フラット6ガレージ 【FLAT6GARAGE】",
+          "channel_url": ""
+        },
+        {
+          "rank": 17,
+          "video_title": "【出産時の発病で夫を忘れてしまった妻】障害者になった妻と娘を介護する父の1日 supoorted by 聖礼会 #聖礼会 #ジャパンバリアフリープロジェクト #共生社会 #障害 #障がい #愛 #",
+          "video_url": "https://www.youtube.com/watch?v=I6GAJEDV9Xs",
+          "channel_name": "964万7千分の一",
+          "channel_url": ""
+        },
+        {
+          "rank": 18,
+          "video_title": "新証言 元副議長「カネ払わされた」 福岡県議会の現金授受疑惑【ぎゅっと】(2026年7月9日OA)",
+          "video_url": "https://www.youtube.com/watch?v=LlHfnFJViII",
+          "channel_name": "福岡・佐賀 KBC NEWS",
+          "channel_url": ""
+        },
+        {
+          "rank": 19,
+          "video_title": "Meditative HD Fine Art Screensaver for TV - Japanese Prints",
+          "video_url": "https://www.youtube.com/watch?v=6uDAvimQPo8",
+          "channel_name": "Home Art Gallery",
+          "channel_url": ""
+        },
+        {
+          "rank": 20,
+          "video_title": "【緊急】スマホ新法よりヤバい...Googleの新しい規約変更、これ無視したら高額請求届きます！今すぐ対応して！",
+          "video_url": "https://www.youtube.com/watch?v=HY5li98NYhY",
+          "channel_name": "スマホ博士",
+          "channel_url": ""
+        }
+      ],
+      "error": null
+    }
+  ]
+}
