@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ytrec-probe"
-version = "0.3.2"
+version = "0.3.3"
 description = "Browserless local probe for channels appearing in YouTube watch-next recommendations without the official Data API"
 readme = "README.md"
 requires-python = ">=3.11"

@@ -1,12 +1,25 @@
-# ytrec-probe 0.3.2
+# ytrec-probe 0.3.3
 
 対象YouTubeチャンネルの複数動画について、動画ページ右側の「次の動画 / 関連動画」に現れるチャンネルを集計するローカルツールです。
 
 ブラウザ、動画再生、YouTube Data API、利用者が用意するAPIキーは使いません。
 
-ただし0.3.2では、初期HTMLに右側欄が含まれない場合に限り、YouTubeのWeb画面自身が使う内部 `youtubei/v1/next` 通信を実行します。これは公式Data APIではありませんが、通信上は内部APIです。「一切APIを使わない」と書くと事実と違うため、ここは区別しています。
+ただし、初期HTMLに右側欄が含まれない場合はYouTubeのWeb画面自身が使う内部 `youtubei/v1/next` 通信を実行します。また、推薦データにチャンネルURLが省略されている場合だけ、各動画のoEmbed応答にある投稿者URLで補完します。どちらもAPIキーは不要ですが、HTTP通信を追加で行います。「一切APIを使わない」と書いて煙に巻くより、実際の挙動を書いておきます。
 
-## 0.3.2で直した問題
+## 0.3.3で直した問題
+
+2026年7月時点の `lockupViewModel` では、関連動画のチャンネル名は返る一方、チャンネルへの遷移コマンドが丸ごと省略されることがあります。旧版は名前だけで集計を続けたため、`raw.json` と `channels.csv` の `channel_url` が空欄になりました。
+
+0.3.3は次のように補完します。
+
+1. レンダラ内にチャンネルURLがあれば、そのURLを検証・正規化して使う
+2. URLがない推薦だけ、動画URLをYouTube oEmbedへ渡して `author_url` を取得する
+3. 同じ推薦動画が複数のシードに現れる場合は結果を再利用し、不要な通信を減らす
+4. 表示名は識別子として使わず、異なる動画は個別に解決して同名チャンネルの誤結合を避ける
+
+同梱の `tests/fixtures/sugishun_tech_2026-07-12_v0.3.2.json` は `https://www.youtube.com/@sugishun_tech` を2026年7月12日に20本×20件で取得した記録です。旧版では400件中400件のURLが空でした。この記録と `httpx.MockTransport` でoEmbed応答を再現する回帰テストにより、補完後のCSVに空URLが残らないことを確認しています。外部サービスの機嫌まで単体テストへ混ぜると、テストではなく天気占いになるためです。
+
+## 推薦欄の取得方法
 
 0.3.0では、動画ページの `ytInitialData` に右側欄が最初から含まれると仮定していました。現在のYouTubeでは、初期HTMLには動画本体だけを入れ、右側欄を後続の `next` 応答で返す場合があります。その場合、次のエラーになっていました。
 
@@ -14,7 +27,7 @@
 No right-side recommendations were present in ytInitialData
 ```
 
-0.3.2は次の順序で取得します。
+現在は次の順序で取得します。
 
 1. 初期HTMLの既知の右側欄パスを読む
 2. 階層だけ変更された `secondaryResults` コンテナを再帰探索する
@@ -29,8 +42,8 @@ No right-side recommendations were present in ytInitialData
 
 ```bash
 cd /home/shun/develop
-unzip ytrec_probe_v0.3.2.zip
-cd ytrec_probe_v0.3.2
+unzip ytrec_probe_v0.3.3.zip
+cd ytrec_probe_v0.3.3
 
 chmod +x install.sh run.sh
 ./install.sh
@@ -105,7 +118,34 @@ venv/bin/python -m pip install -e '.[test]'
 venv/bin/python -m pytest -q
 ```
 
-0.3.2では13件の単体テストを収録しています。
+0.3.3では、パーサ、oEmbed補完、同名チャンネルの防御処理、収集フロー、分析、CSV出力を含む21件のテストを収録しています。指定チャンネルの同梱記録400件を使う回帰テストと、同じURLを入力する収集フローの結合テストも含みます。
+
+実際のYouTubeへ接続する確認は、通常の実行コマンドで行えます。終了時に次のような補完件数が表示されます。
+
+```text
+[channel URLs] resolved 400/400 with 145 oEmbed request(s)
+```
+
+件数は推薦内容によって変わります。oEmbed側で削除済み・非公開・一時的な制限が返った動画は空欄のまま残り、収集全体は失敗させません。
+
+指定チャンネルを3本×10件で取得し、生成CSVの全行にURLがあることまで検査するライブテストも同梱しています。
+
+```bash
+./experiment/test.sh
+```
+
+取得量は環境変数で変更できます。
+
+```bash
+SEEDS=20 RECOMMENDATIONS=20 ./experiment/test.sh
+```
+
+## v0.3.3
+
+- `lockupViewModel` にチャンネル遷移コマンドがない場合、oEmbedの `author_url` で補完
+- 補完通信を同じ推薦動画ごとに再利用し、表示名が同じ別チャンネルを誤結合しない設計へ変更
+- チャンネルURLとして不正なホストや動画・再生リストURLをCSVへ書かないよう検証
+- `@sugishun_tech` の実収集記録400件を使うCSV回帰テストを追加
 
 
 ## v0.3.2

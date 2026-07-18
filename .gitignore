@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+venv/
 develop-eggs/
 dist/
 downloads/
@@ -216,3 +217,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Probe outputs
+experiment/output/
+experiment/live-output/

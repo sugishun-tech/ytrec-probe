@@ -33,7 +33,14 @@ def normalize_channel_url(url: str) -> str:
     if "youtube.com" not in parts.netloc.lower():
         raise ValueError("only youtube.com channel URLs are supported")
     path = parts.path.rstrip("/")
-    for suffix in ("/videos", "/featured", "/shorts", "/streams", "/playlists", "/community"):
+    for suffix in (
+        "/videos",
+        "/featured",
+        "/shorts",
+        "/streams",
+        "/playlists",
+        "/community",
+    ):
         if path.endswith(suffix):
             path = path[: -len(suffix)]
             break
@@ -48,6 +55,34 @@ def absolute_youtube_url(href: str | None) -> str:
     if not href:
         return ""
     return urljoin(YOUTUBE_ORIGIN, href)
+
+
+def _normalize_discovered_channel_url(url: str) -> str:
+    """Return a canonical YouTube channel URL, or an empty string.
+
+    URLs found in renderer commands and oEmbed responses are not trusted
+    blindly.  In particular, accepting a watch or playlist URL here would
+    make the CSV look populated while quietly linking to the wrong resource.
+    """
+    value = url.strip()
+    if not value:
+        return ""
+    if not value.startswith(("http://", "https://")):
+        value = absolute_youtube_url(value)
+
+    parts = urlsplit(value)
+    host = (parts.hostname or "").lower()
+    if host != "youtube.com" and not host.endswith(".youtube.com"):
+        return ""
+
+    path = re.sub(r"/{2,}", "/", parts.path).rstrip("/")
+    for suffix in ("/videos", "/featured", "/shorts", "/streams", "/playlists", "/community"):
+        if path.endswith(suffix):
+            path = path[: -len(suffix)]
+            break
+    if not path.startswith(("/@", "/channel/", "/c/", "/user/")):
+        return ""
+    return urlunsplit(("https", "www.youtube.com", path, "", ""))
 
 
 def _video_id_from_href(href: str | None) -> str:
@@ -647,6 +682,128 @@ async def _fetch_next_response(
     return value
 
 
+async def _fetch_oembed_channel(
+    client: httpx.AsyncClient,
+    *,
+    video_url: str,
+) -> tuple[str, str]:
+    """Resolve a video's author name and channel URL through YouTube oEmbed.
+
+    Current lockupViewModel payloads sometimes contain the visible channel
+    name but omit every navigation endpoint.  The video ID alone cannot be
+    transformed into a channel ID, so oEmbed is used only as a fallback for
+    those missing URLs.
+    """
+    canonical_video_url = _canonical_watch_url(video_url)
+    if not canonical_video_url:
+        return "", ""
+    try:
+        response = await client.get(
+            f"{YOUTUBE_ORIGIN}/oembed",
+            params={"url": canonical_video_url, "format": "json"},
+            headers={"Accept": "application/json"},
+        )
+    except httpx.HTTPError:
+        return "", ""
+
+    if response.status_code != 200:
+        return "", ""
+    try:
+        value = response.json()
+    except (UnicodeDecodeError, ValueError):
+        return "", ""
+    if not isinstance(value, dict):
+        return "", ""
+
+    author_name = value.get("author_name")
+    author_url = value.get("author_url")
+    name = author_name.strip() if isinstance(author_name, str) else ""
+    url = (
+        _normalize_discovered_channel_url(author_url)
+        if isinstance(author_url, str)
+        else ""
+    )
+    return name, url
+
+
+async def _resolve_missing_channel_urls(
+    client: httpx.AsyncClient,
+    recommendations: list[Recommendation],
+    *,
+    max_concurrency: int = 6,
+) -> tuple[int, int]:
+    """Fill missing recommendation channel URLs without failing collection.
+
+    One oEmbed lookup is made per unique recommended video URL, not per
+    occurrence.  This preserves correctness when two different channels use
+    the same display name, while still deduplicating videos repeated across
+    multiple seed pages.
+
+    Returns ``(request_count, resolved_count)``.
+    """
+    if max_concurrency < 1:
+        raise ValueError("max_concurrency must be positive")
+
+    for rec in recommendations:
+        if rec.channel_url:
+            rec.channel_url = _normalize_discovered_channel_url(rec.channel_url)
+
+    missing = [
+        rec
+        for rec in recommendations
+        if rec.channel_name and not rec.channel_url
+    ]
+    if not missing:
+        return 0, 0
+
+    # Reuse a URL already obtained for the exact same video.  Display names
+    # are deliberately not used as identifiers because they are not unique.
+    known_urls_by_video: dict[str, set[str]] = {}
+    for rec in recommendations:
+        video_url = _canonical_watch_url(rec.video_url)
+        if not video_url or not rec.channel_url:
+            continue
+        known_urls_by_video.setdefault(video_url, set()).add(rec.channel_url)
+
+    unresolved_by_video: dict[str, list[Recommendation]] = {}
+    for rec in missing:
+        video_url = _canonical_watch_url(rec.video_url)
+        if not video_url:
+            continue
+        urls = known_urls_by_video.get(video_url, set())
+        if len(urls) == 1:
+            rec.channel_url = next(iter(urls))
+            continue
+        unresolved_by_video.setdefault(video_url, []).append(rec)
+
+    semaphore = asyncio.Semaphore(max_concurrency)
+    request_count = 0
+
+    async def resolve_video(
+        video_url: str,
+        group: list[Recommendation],
+    ) -> None:
+        nonlocal request_count
+        async with semaphore:
+            request_count += 1
+            _author_name, author_url = await _fetch_oembed_channel(
+                client,
+                video_url=video_url,
+            )
+        if author_url:
+            for rec in group:
+                rec.channel_url = author_url
+
+    await asyncio.gather(
+        *(
+            resolve_video(video_url, group)
+            for video_url, group in unresolved_by_video.items()
+        )
+    )
+    resolved_count = sum(bool(rec.channel_url) for rec in missing)
+    return request_count, resolved_count
+
+
 async def collect(
     *,
     channel_url: str,
@@ -717,7 +874,7 @@ async def collect(
             target_channel_url=normalize_channel_url(channel_url),
             target_channel_name=target_name,
             collected_at=datetime.now(timezone.utc).isoformat(),
-            mode="browserless-http+innertube-next",
+            mode="browserless-http+innertube-next+oembed",
             locale=locale,
             seed_limit=seed_limit,
             recommendation_limit=recommendation_limit,
@@ -749,10 +906,14 @@ async def collect(
                         seed.recommendations.append(
                             Recommendation(
                                 rank=len(seed.recommendations) + 1,
-                                video_title=_valid_title(rec_title, video_id) or video_id,
+                                video_title=(
+                                    _valid_title(rec_title, video_id) or video_id
+                                ),
                                 video_url=video_url,
                                 channel_name=channel_name,
-                                channel_url=channel_url,
+                                channel_url=_normalize_discovered_channel_url(
+                                    channel_url
+                                ),
                             )
                         )
                         if len(seed.recommendations) >= recommendation_limit:
@@ -810,5 +971,30 @@ async def collect(
             result.seed_videos.append(seed)
             if delay_seconds > 0 and index < len(seeds):
                 await asyncio.sleep(delay_seconds)
+
+        recommendations = [
+            rec
+            for seed in result.seed_videos
+            for rec in seed.recommendations
+        ]
+        missing_count = sum(
+            bool(rec.channel_name) and not rec.channel_url
+            for rec in recommendations
+        )
+        if missing_count:
+            print(
+                f"[channel URLs] resolving {missing_count} missing value(s)",
+                flush=True,
+            )
+            request_count, resolved_count = await _resolve_missing_channel_urls(
+                client,
+                recommendations,
+            )
+            print(
+                "[channel URLs] "
+                f"resolved {resolved_count}/{missing_count} "
+                f"with {request_count} oEmbed request(s)",
+                flush=True,
+            )
 
         return result
